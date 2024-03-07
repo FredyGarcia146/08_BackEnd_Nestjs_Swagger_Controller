@@ -1,0 +1,28 @@
+
+[
+    {"create_task":
+        {
+            "user_id": 1,
+            "type_task_id": 2,
+            "title": "test_10",
+            "description": "Description 10",
+            "done":0
+        }
+    }
+,
+    {"user_login":
+        {
+            "email":"correo_04@test.com",
+            "password":"Gat1234G"
+        }
+    }
+,
+    {"update_task":
+        {
+            "type_task_id": 4,
+            "title": "test_10_Prueba_01",
+            "description": "Description 10 Prueba_01",
+            "done":0
+        }
+    }
+]
